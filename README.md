@@ -1,7 +1,7 @@
 # codigos-power-apps
 codigo que he utilizado para creacion de aplicaciones en power apps
 __________________________________________________________________________________________________________
-#con esto creamos un codigo de acceso /n
+#con esto creamos un codigo de acceso \n
 If(
     TextInput1.Text = "Justin3000",
     Navigate(verRegistros, ScreenTransition.UnCoverRight),
